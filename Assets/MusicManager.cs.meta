@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fc1133bdb81153c45991d7b16dabd4e9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - menuMusic: {fileID: 8300000, guid: 8efa57cabfaa56d4b95f325a74d3a9e8, type: 3}
+  - easyLevelMusic: {fileID: 8300000, guid: a09baa44cb7602a4da066744c5074a27, type: 3}
+  - hardLevelMusic: {fileID: 8300000, guid: fd6b573996cc6fb43a00e05cf42f809b, type: 3}
+  - bonusLevelMusic: {fileID: 8300000, guid: 6169d84ecc597534d959a499635d58b1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
